@@ -30,7 +30,7 @@ function saveToJsonFile(filename, data) {
 }
 
 // Paths to files
-const binFilePath = 'keys/key.bin'; // Path to your RSA.bin file
+const binFilePath = 'keys/key.pem'; // Path to your RSA.bin file
 const jsonFilePath = 'data/data.json'; // Path to your data.json file
 const keyName = 'content'; // Key name in JSON to decrypt
 
