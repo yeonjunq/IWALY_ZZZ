@@ -1,0 +1,70 @@
+{
+  "cdn_conf_ext": {
+    "design_data": {
+      "base_url": "https://autopatchos.zenlesszonezero.com/design_data/1.0_live/output_3368633_43ccfcace6/client/",
+      "data_revision": "3357738",
+      "md5_files": "[{\"fileName\":\"data_version\",\"fileSize\":4081,\"fileMD5\":\"4826384558959662221\"}]"
+    },
+    "game_res": {
+      "audio_revision": "3294259",
+      "base_url": "https://autopatchos.zenlesszonezero.com/game_res/1.0_live/output_3368633_43ccfcace6/client/",
+      "branch": "1.0_live",
+      "md5_files": "[{\"fileName\":\"res_version\",\"fileSize\":1960354,\"fileMD5\":\"1869049206810856614\"},{\"fileName\":\"audio_version\",\"fileSize\":30920,\"fileMD5\":\"15436940265590585834\"},{\"fileName\":\"base_revision\",\"fileSize\":18,\"fileMD5\":\"11611163009752861672\"}]",
+      "res_revision": "3357738"
+    },
+    "silence_data": {
+      "base_url": "https://autopatchos.zenlesszonezero.com/design_data/1.0_live/output_3368633_43ccfcace6/client_silence/",
+      "md5_files": "[{\"fileName\":\"silence_version\",\"fileSize\":495,\"fileMD5\":\"606384029649952737\"}]",
+      "silence_revision": "3368603"
+    }
+  },
+  "client_secret_key": "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",
+  "env": 2,
+  "gateway": {
+    "ip": "8.221.147.99",
+    "port": 20501
+  },
+  "region_ext": {
+    "exchange_url": "https://public-operation-nap.hoyoverse.com/common/apicdkey/api/exchangeCdkey",
+    "feedback_url": "{\"1\": \"https://cs.hoyoverse.com/csc-service-center-fe/index.html?sign_type=2&auth_appid=csc&authkey_ver=1&win_direction=portrait&login_type=account&page_id=14&goToHall=true\"}",
+    "func_switch": {
+      "Close_Medium_Package_Download": 0,
+      "Disable_Audio_Download": 0,
+      "Disable_Frequent_attempts": 1,
+      "Hide_Download_complete_resources": 0,
+      "Hide_Download_resources_popups": 0,
+      "Hide_download_progress": 0,
+      "Medium_Package_Play": 0,
+      "Play_The_Music": 0,
+      "disableAnimAllocatorOpt": 0,
+      "disableAsyncSRPSubmit": 0,
+      "disableAsyncUploadJob": 0,
+      "disableExecuteAsync": 0,
+      "disableLoadSceneParallel": 0,
+      "disableMetalPSOCreateAsync": 0,
+      "disableObjectInstanceCache": 0,
+      "disableSRPHelper": 0,
+      "disableSRPInstancing": 0,
+      "disableSkinMeshStrip": 0,
+      "disableStepPreloadMonster": 0,
+      "disableTexStreamingVisbilityOpt": 0,
+      "disableiOSGPUBufferOpt": 0,
+      "disableiOSShaderHibernation": 0,
+      "enableGachaMobileConsole": 1,
+      "enableNoticeMobileConsole": 1,
+      "enableOperationLog": 0,
+      "enableiOSShaderWarmupOnStartup": 0,
+      "isKcp": 1,
+      "open_hotfix_popups": 0,
+      "perfSwitch2": 0
+    },
+    "mtrNap": "{\n\"isOpen\": false,\n\"maxTTL\": 32,\n\"timeOut\": 5000,\n\"traceCount\": 5,\n\"abortTimeOutCount\": 3,\n\"autoTraceInterval\": 3600,\n\"timeInterval\": 1000,\n}",
+    "mtrSdk": "{\n\"ignore_no_response\":true,\n\"only_detect_prefered_ip\":true\n}",
+    "pgc_webview_method": 1,
+    "urlCheckNap": "{\n\"isOpen\": false,\n\"checkAllIP\": false,\n\"timeOut\": 5000,\n\"successTraceCount\": 5,\n\"errorTraceCount\": 5,\n\"abortTimeOutCount\": 3,\n\"autoTraceInterval\": 3600,\n\"timeInterval\": 1000,\n}",
+    "urlCheckSdk": "{\n\"auto_downgrade_to_v4\": false,\n\"do_ping\": true, \n\"contain_detail_time_in_data\": true, \n\"contain_detail_time_in_detail_data\": true,\n\"contain_detail_data\": true\n}"
+  },
+  "region_name": "prod_gf_jp",
+  "retcode": 0,
+  "title": "Asia"
+}
