@@ -1,6 +1,9 @@
 # IWALY-ZZZ
 
-A ~~shitty~~ tool that will automatically download the four revisions from the server
+A tool that will automatically download the four revisions from the server
+
+## Disclaimer
+Use this at your own risk. Please be responsible.
 
 ## Preqrequisites
 * Node.js
